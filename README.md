@@ -1,1 +1,1 @@
-# tailwind-begginer-site
+# tailwind-beginner-site
